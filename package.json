@@ -6,7 +6,7 @@
   "scripts": {
     "test": "exit 0",
     "dev": "npm install http-server -g && http-server .",
-    "build": "webpack --config ./webpack.build.js"
+    "build": "webpack --config ./webpack.config.js"
   },
   "repository": {
     "type": "git",
